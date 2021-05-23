@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Karlienos',
   author: 'MaxYu',
   email: 'k.karlienos@gmail.com',
-  link: '',
+  link: 'https://www.notion.so/137e13f5ef7d42d1919ba3b2ba8cd8d1?v=b8a9e234f271423e808c7caf80d77fea',
   description: 'Read Only',
   lang: 'CHS',
   appearance: 'auto', // ['light', 'dark', 'auto'],
