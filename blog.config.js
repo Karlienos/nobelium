@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Karlienos',
   author: 'MaxYu',
   email: 'k.karlienos@gmail.com',
-  link: 'https://nobelium2.vercel.app/',
+  link: '',
   description: 'Read Only',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
